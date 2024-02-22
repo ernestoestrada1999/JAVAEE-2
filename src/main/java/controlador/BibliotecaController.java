@@ -21,7 +21,6 @@ public class BibliotecaController extends HttpServlet {
 
     public BibliotecaController() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
 	/**
